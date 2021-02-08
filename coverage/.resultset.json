@@ -34,20 +34,15 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/Users/jason/Desktop/67373/272Refresher/lab5-choretracker-starter-master/app/models/child.rb": [
+      "/Users/jason/Desktop/67373/272Refresher/lab5-choretracker-starter-master/app/models/task.rb": [
         1,
         1,
         1,
         null,
         1,
-        null,
         1,
-        3,
-        null,
-        null,
         3,
         2,
-        null,
         null
       ],
       "/Users/jason/Desktop/67373/272Refresher/lab5-choretracker-starter-master/app/models/application_record.rb": [
@@ -57,11 +52,25 @@
       ],
       "/Users/jason/Desktop/67373/272Refresher/lab5-choretracker-starter-master/app/models/chore.rb": [
         1,
+        1,
+        1,
         null
       ],
-      "/Users/jason/Desktop/67373/272Refresher/lab5-choretracker-starter-master/app/models/task.rb": [
+      "/Users/jason/Desktop/67373/272Refresher/lab5-choretracker-starter-master/app/models/child.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
         0,
-        0
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
       ],
       "/Users/jason/Desktop/67373/272Refresher/lab5-choretracker-starter-master/app/controllers/application_controller.rb": [
         0,
@@ -315,6 +324,6 @@
         0
       ]
     },
-    "timestamp": 1612797111
+    "timestamp": 1612797827
   }
 }
